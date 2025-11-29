@@ -1,0 +1,3 @@
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: abf2d34fdd663c1138e8c4928ed96010).
